@@ -1,0 +1,17 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #eee;
+  padding: 12px 8px;
+  border-radius: 4px;
+}
+.imgContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+.favIcon {
+  display: flex;
+  justify-content: end;
+}
